@@ -1,0 +1,9 @@
+[project]
+name = "wasper_inventory"
+version = "1.0.0"
+description = "Inventory Management Solution for Multi-Branch Operations"
+authors = [{name = "Your Company", email = "support@yourcompany.com"}]
+dependencies = [
+    "frappe>=14.0.0",
+    "erpnext>=14.0.0"
+]

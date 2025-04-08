@@ -1,0 +1,4 @@
+frappe>=14.0.0
+erpnext>=14.0.0
+wheel
+setuptools>=64.0.0

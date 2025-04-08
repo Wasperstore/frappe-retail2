@@ -1,0 +1,6 @@
+app_name = "wasper_inventory"
+app_title = "Wasper Inventory"
+app_publisher = "Your Company"
+app_description = "Inventory Management Solution for Multi-Branch Operations"
+app_email = "support@yourcompany.com"
+app_license = "MIT"
